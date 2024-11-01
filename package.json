@@ -42,7 +42,7 @@
     "fuse.js": "^7.0.0",
     "globe.gl": "^2.32.4",
     "markdown-it": "^14.1.0",
-    "mdx": "^0.3.1",
+    "mdx": "^0.2.3",
     "octokit": "^3.1.1",
     "og-img": "^0.2.1",
     "rehype-autolink-headings": "^7.1.0",
@@ -52,7 +52,8 @@
     "slugify": "^1.6.6",
     "tailwindcss": "^3.4.1",
     "three": "0.161.0",
-    "typescript": "^5.3.2"
+    "typescript": "^5.3.2",
+    "vite": "^5.4.10"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
